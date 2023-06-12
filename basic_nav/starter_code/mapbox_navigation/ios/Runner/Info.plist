@@ -25,7 +25,7 @@
 		<key>LSRequiresIPhoneOS</key>
 		<true/>
 		<key>MGLMapboxAccessToken</key>
-		<string>YOUR_PUBLIC_ACCESS_TOKEN</string>
+		<string>pk.eyJ1IjoiY2FrcGU3NyIsImEiOiJjbGlzcnRlcnYxNzN5M2NucjFydXBuMWZ4In0.gpSV7Mwij057lM6MlEeNPg</string>
 		<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 		<string>Helps improve Open Street Maps</string>
 		<key>NSLocationAlwaysUsageDescription</key>
@@ -53,5 +53,9 @@
 		<false/>
 		<key>UIStatusBarHidden</key>
 		<false/>
-	</dict>
+		<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+</dict>
 </plist>
